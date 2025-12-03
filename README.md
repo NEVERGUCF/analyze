@@ -1,4 +1,5 @@
-下载 data
+```
+ 复制data 到一级目录下
 analyze/data
 ├── 20220901-20230228_station-raw
 ├── 20220901-20230228_zone-cleaned-aggregated
@@ -16,3 +17,4 @@ analyze/data
 ├── weather_airport.csv
 ├── weather_central.csv
 └── weather_header.txt
+```
