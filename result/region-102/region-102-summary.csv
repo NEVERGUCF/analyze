@@ -1,0 +1,13 @@
+section,name,value
+region_info,longitude,114.1029615
+region_info,latitude,22.5404129
+region_info,charge_count,30.0
+region_info,area,714419.3333
+region_info,perimeter,3501.2154
+poi_count,business and residential,191
+poi_count,food and beverage services,125
+poi_count,lifestyle services,656
+data_summary,columns,time|occupancy|duration|volume|volume-11kW
+data_summary,row_count,4344
+data_summary,time_start,2022-09-01 00:00:00
+data_summary,time_end,2023-02-28 23:00:00
